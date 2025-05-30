@@ -49,7 +49,7 @@ const get5Tickets = () => [
   },
 ];
 
-const TICKET_PRICE = 200;
+const TICKET_PRICE = 150;
 
 export const App = () => {
   const [loading, setLoading] = useState(false);
